@@ -1,6 +1,0 @@
-[package]
-name = "example7_expression"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
